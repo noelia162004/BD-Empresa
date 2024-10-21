@@ -1,0 +1,2 @@
+select nomemp, salemp 
+from empleados;
