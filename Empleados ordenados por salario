@@ -1,0 +1,4 @@
+
+select nomEmp, cargoE, salemp 
+from empleados 
+order by salemp;
