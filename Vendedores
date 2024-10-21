@@ -1,0 +1,5 @@
+
+select * 
+from empleados 
+where lower(cargoE)='vendedor' 
+order by nomEmp asc;
